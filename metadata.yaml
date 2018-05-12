@@ -1,0 +1,34 @@
+_repo: Are-the-Planets-Inhabited-_35937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maunder, E. Walter (Edward Walter)
+    alias: Maunder, Edward Walter
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '33389'
+    url: http://www.gutenberg.org/2009/agents/33389
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Walter_Maunder
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2011-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35937'
+  lccn: '13011520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets'
+- !lcc 'QB'
+tableOfContents: The question stated -- The living organism -- The Sun -- The distribution
+  of the elements in space -- The Moon -- The canals of Mars -- The condition of Mars
+  -- The illusions of Mars -- Venus, Mercury and the asteroids -- The major planets
+  -- When the major planets cool -- The final question.
+title: Are the Planets Inhabited?
+url: http://www.gutenberg.org/ebooks/35937
